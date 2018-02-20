@@ -1,17 +1,12 @@
 # Maester: Investigating Rumor News using Agreement-Aware Search
 
-## Publications
+## Publication
 
-## Requirements
+TODO.
 
-Add your requirements, like Python 2, Python 3, and other packages.
+## Details
 
-## Default Runs
+For the dataset, please refer to [FNC-1](https://github.com/FakeNewsChallenge/fnc-1).
 
-How to run the pipeline after you have installed everything?
-
-
-## Input Data Formats
-
-If someone wants to try some new dataset, what's the required format?
-
+Please check out the ```README.md``` in ```tree_model/``` and ```rnn_model```, respectively.
+The tree model should go first and then the rnn model.
