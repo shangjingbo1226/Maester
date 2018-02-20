@@ -30,11 +30,11 @@ cd ./evalution
 python3 nDCG.py
 ```
 
-**7. (Optional) You could get the fnc winner's results by the following step:
+**7. (Optional) You could get the fnc winner's results by the following step:**
 ```
 cd ./evaluation
 ```
-Open nDCG.py. Comment out line 13, uncomment line 12 (Since the file format used in fnc winner's implementation is different). Comment out line 163-164, uncomment line 167-169.:**
+**Open nDCG.py. Comment out line 13, uncomment line 12 (Since the file format used in fnc winner's implementation is different). Comment out line 163-164, uncomment line 167-169.:**
 ```
 python2 nDCG.py (Note this is python2 instead of python3)
 ```
