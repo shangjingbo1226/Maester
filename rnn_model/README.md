@@ -7,7 +7,10 @@
 ## Procedure
 1. Install all the dependencies.
 
-2. Download the [GloVe word embedding](https://nlp.stanford.edu/projects/glove). This should be present in ```./glove.6B```, the reported result is using the following one: ```Common Crawl (840B tokens, 2.2M vocab, cased, 300d vectors, 2.03 GB download): glove.840B.300d.zip```
+2. Download the [GloVe word embedding](https://nlp.stanford.edu/projects/glove). This should be put into ```./glove.6B/```., The reported result is using the following one.
+```
+Common Crawl (840B tokens, 2.2M vocab, cased, 300d vectors, 2.03 GB download): glove.840B.300d.zip
+```
 
 3. Run preprocessing code to generate the input to the model using the dataset:
 ```
